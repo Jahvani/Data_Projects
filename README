@@ -10,17 +10,17 @@ The project task was to evaluate the impact of drive type on fuel efficiency and
 
 The data was composed in one file, and some of the key columns were:
 
-'drive': Type of drivetrain (e.g., Front-Wheel Drive, Rear-Wheel Drive, All-Wheel Drive)
+- `'drive'`: Type of drivetrain (e.g., Front-Wheel Drive, Rear-Wheel Drive, All-Wheel Drive)
 
-'comb08': Combined MPG for gasoline vehicles
+- `'comb08'`: Combined MPG for gasoline vehicles
 
-'co2': Tailpipe CO₂ emissions in grams per mile
+- `'co2'`: Tailpipe CO₂ emissions in grams per mile
 
-'fuelType1': Primary fuel type used (e.g., Regular Gasoline, Electricity, Diesel)
+- `'fuelType1'`: Primary fuel type used (e.g., Regular Gasoline, Electricity, Diesel)
 
-'year': Model year of the vehicle
+- `'year'`: Model year of the vehicle
 
-'make', 'model': Make and model of the vehicle
+- `'make'`, 'model': Make and model of the vehicle
 
 The data is provided by TripleTen, who took it from Kaggle.
 
