@@ -2,7 +2,7 @@
 
 ## Project Description
 
-As an analyst for Zuber, a new ride-sharing company launching in Chicago, the goal of this project is to identify patterns in available data to understand passenger preferences and the impact of external factors on rides. This involves analyzing competitor data and testing a hypothesis about how weather conditions affect ride frequency.
+As a student analyst for Zuber, a new ride-sharing company launching in Chicago, I used a cleaned dataset provided by Tripleten's data analysis team to identify patterns in the available data through SQL. The goal was to understand passenger preferences and the impact of external factors on rides. This involved analyzing competitor data and testing a hypothesis about how weather conditions affect ride frequency.
 
 ## Data
 
