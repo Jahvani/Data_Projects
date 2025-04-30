@@ -4,7 +4,7 @@ This project analyzes Airbnb data for Manhattan to provide insights into which p
 
 ## Project Description
 
-The analysis addresses the following questions:
+The analysis addresses the following questions from the provided data from TripleTen:
 
 * Which neighborhoods and property sizes (i.e., number of bedrooms) are most attractive for vacation rentals?
 * How much money did these listings generate?
