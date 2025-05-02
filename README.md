@@ -1,4 +1,4 @@
-# TripleTen_projects
+# Data_Projects_Tripleten
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
