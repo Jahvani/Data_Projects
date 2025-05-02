@@ -30,14 +30,14 @@ This project was structured into three main parts, each addressing a specific bu
 
 ### Part 2: Advertising
 
-* **Best Advertising Combinations:** A visualization (e.g., heatmap, line chart) displayed the average profit for each month of the year for the top 3 identified states, helping to determine the most promising advertising periods. 
+* **Best Advertising Combinations:** A visualization displayed the average profit for each month of the year for the top 3 identified states, helping to determine the most promising advertising periods. 
 * **Advertising Budget Justification:** Based on the return on ad spend ratio (willingness to spend 1/5 of profits), an argument was made, supported by the profit visualizations, for the potential advertising budget for the identified state-month combinations.
 
 ### Part 3: Returned Items
 
-* **Products with Highest Return Rate:** A visualization (e.g., bar chart) showcased the products with the highest percentage of returns. 
-* **Customers with Highest Return Rate:** A visualization (e.g., bar chart) identified the customers with the highest number or rate of returned items. 
-* **Profit vs. Return Rate Analysis:** A scatter plot or similar visualization displayed the average profit against the average return rate for a chosen dimension (e.g., state, shipping mode, product type), providing a visual basis for decisions on whether to continue or discontinue business based on that dimension. 
+* **Products with Highest Return Rate:** A visualization showcased the products with the highest percentage of returns. 
+* **Customers with Highest Return Rate:** A visualization identified the customers with the highest number or rate of returned items. 
+* **Profit vs. Return Rate Analysis:** A visualization displayed the average profit against the average return rate for a chosen dimension (e.g., state, shipping mode, product type), providing a visual basis for decisions on whether to continue or discontinue business based on that dimension. 
 
 ## Results & Recommendations
 
